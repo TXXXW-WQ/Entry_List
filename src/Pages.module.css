@@ -1,0 +1,17 @@
+.pageTytle{
+  text-align: center;
+  font-size: 2rem;
+  background-color: #e2b148;
+}
+
+.listContainer{
+  margin:10px 30%; 
+  color: black;
+  border-top:solid 1px black;
+  border-bottom: solid 1px black;
+}
+.listLi{
+ 
+  list-style: none;
+  text-align: center;
+}
